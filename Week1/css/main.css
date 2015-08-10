@@ -3,7 +3,7 @@
 body{
 	font-size: 62.5%;
 	font-family: helvetica, arial, sans-serif;
-	color:#545257; /*changes color of the whole text*/
+	color:#397fdb; /*changes color of the whole text*/
 	margin-top: 0;
 }
 #wrapper{
@@ -19,7 +19,7 @@ body{
 /*-------------------------------------------  header -------------------------------------------------------*/
 
 header{
-	border-bottom: 1px solid #bbb8bf; /*changes color of border under project name*/
+	border-bottom: 1px solid #397fdb; /*changes color of border under project name*/
 }
 h1{
 	margin-top: 0;
@@ -30,7 +30,7 @@ h2{
 }
 /*-------------------------------------------  table -------------------------------------------------------*/
 table{
-	background: #f7f7f9;  /*changes color of the background of the table*/
+	background: #9cbfed;  /*changes color of the background of the table*/
 	border-collapse: collapse;
 	width: 100%;
 }
@@ -39,15 +39,15 @@ tr{
 	border-color: inherit;
 }
 .odd{
-	background: #ececec; /*changes color of the stripes table*/
+	background: #faf9f9; /*changes color of the stripes table*/
 }
 th{
 	text-align: left;
 	padding: 1em 1em .5em;
 	font-weight: bold;
 	font-size: 120%;
-	color: #545257;  /*changes color of table hd text*/
-	background: #bbbcc0; /*changes color of table hd background*/
+	color: #faf9f9;  /*changes color of table hd text*/
+	background: #112641; /*changes color of table hd background*/
 }
 th:first-child{
 	/*border-right: 1px solid #6a7680;*/
