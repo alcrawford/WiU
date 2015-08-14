@@ -1,0 +1,8 @@
+https://github.com/alcrawford/WiU/tree/Week1/Week1
+
+I had the first one incorrect! This is the proper way to do it below :)
+
+
+
+http://alcrawford.github.io/WiU/Week1/index.html
+
